@@ -1,0 +1,99 @@
+1. Move UPPER 3 (x2)
+      y           w
+  B       W   B       Y
+b          |b|          y
+B   upper  |W|  lower   Y
+w          |w|          w
+  Y       Y   W       B
+      w           w
+
+2. Move LOWER 1 (x2)
+      y           y
+  B       W   Y       Y
+b          |w|          w
+B   upper  |B|  lower   B
+w          |b|          w
+  Y       Y   W       W
+      w           w
+
+3. Move UPPER 4 (x2)
+      b           y
+  B       Y   Y       Y
+w          |w|          w
+W   upper  |Y|  lower   B
+y          |w|          w
+  B       B   W       W
+      b           w
+
+4. Move LOWER 3 (x2)
+      b           w
+  B       Y   W       W
+w          |w|          w
+W   upper  |B|  lower   Y
+y          |w|          w
+  B       B   Y       Y
+      b           y
+
+5. Move UPPER 3 (x2)
+      b           w
+  B       B   W       W
+w          |y|          w
+B   upper  |W|  lower   Y
+w          |w|          w
+  Y       B   Y       Y
+      b           y
+
+6. Move LOWER 1 (x2)
+      b           w
+  B       B   W       Y
+w          |w|          w
+B   upper  |W|  lower   Y
+w          |y|          y
+  Y       B   W       Y
+      b           w
+
+7. Move UPPER 3 (x2)
+      b           w
+  B       Y   W       Y
+y          |w|          w
+W   upper  |B|  lower   Y
+w          |w|          y
+  B       B   W       Y
+      b           w
+
+8. Move LOWER 1 (x2)
+      b           w
+  B       Y   Y       Y
+y          |w|          y
+W   upper  |W|  lower   Y
+w          |w|          w
+  B       B   B       W
+      b           w
+
+9. Move UPPER 2 (x2)
+      w           w
+  B       W   Y       Y
+b          |y|          y
+B   upper  |B|  lower   Y
+w          |b|          w
+  W       Y   B       W
+      w           w
+
+10. Move LOWER 1 (x2)
+      w           y
+  B       W   Y       Y
+b          |w|          w
+B   upper  |Y|  lower   W
+w          |y|          w
+  W       Y   B       B
+      w           b
+
+11. Move UPPER 4 (x2)
+      y           y
+  Y       Y   Y       Y
+w          |w|          w
+W   upper  |W|  lower   W
+w          |w|          w
+  B       B   B       B
+      b           b
+
